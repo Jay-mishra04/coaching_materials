@@ -1,0 +1,5 @@
+streamlit
+os
+streamlit PyMuPDF Pillow
+fitz
+PIL
